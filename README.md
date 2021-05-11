@@ -56,5 +56,5 @@ npm run build-lib
    initialize the local directory as a Git repository
    run:
     git init
-    git add .
+    add key
 
