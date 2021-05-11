@@ -56,5 +56,13 @@ npm run build-lib
    initialize the local directory as a Git repository
    run:
     git init
-    add key
-
+    add key generate key
+ ssh-keygen -o
+    locate and add to github settings add ssh
+    set user.email and user.name // git config --global user.name "FIRST_NAME LAST_NAME"
+    git status
+    git remote -v
+    git add -A //.gitignore , set folder exclude to git upload
+    git commit -m " description... "
+    git remote add origin the_address.git
+    git push -u origin main
